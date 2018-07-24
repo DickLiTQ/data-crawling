@@ -1,7 +1,6 @@
 # data-crawling
 Containing my trial for data crawling in several websites.
 
-------------------
 ## Overture
 I use **requests** and **webdriver** for data crawling. If you don't have these tools, you are supposed to obtain them at first.
 
