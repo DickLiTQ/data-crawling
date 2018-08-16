@@ -23,7 +23,7 @@ All Python3 scripts are provided.
 #### (a) History air quality data of Chinese cities from aqistudy
 Environment is crucial for everything on Earth. To better protect our Earth, we may need history data in order to analyze. Here we choose the website [aqistudy](https://www.aqistudy.cn/historydata/) as our source of data.
 
-This website is friendly and has about 300+ Chinese cities, providing data from 2014 to nowadays. We use **webdriver** to simulate searching actions and **pandas** to modify our data. (Notice that the reason why we use webdriver instead of requests is that the website is dynamic but not steady so there may be some mistakes. You may use requests.post to have a try.)
+This website is friendly and has about 300+ Chinese cities, providing data from 2014 to nowadays. We use **webdriver** to simulate searching actions and **pandas** to modify our data. (Notice that the reason why we use webdriver instead of requests is that the website is dynamic but not steady so there may be some mistakes. You may use `requests.post` to have a try.)
 
 ```python
 import re
