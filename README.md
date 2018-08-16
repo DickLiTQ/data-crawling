@@ -1,4 +1,4 @@
-# data-crawling
+# data-mining
 Containing my trial for data mining in several websites.
 
 ## Overture
