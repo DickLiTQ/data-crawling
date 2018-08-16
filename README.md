@@ -82,3 +82,5 @@ for city in citylist:
 ```
 
 
+#### (b) Games data on steamspy
+Here is the searching result of Dota 2: [http://steamspy.com/app/570](http://steamspy.com/app/570) and I really enjoy TI every year.
